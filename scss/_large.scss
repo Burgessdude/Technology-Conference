@@ -1,0 +1,11 @@
+header, nav, main {
+    max-width: 960px;
+    margin: auto;
+}
+main {
+    .allCards {
+        display: flex;
+        justify-content: space-evenly;
+    }
+}
+/* NAVIGATION STUFF GOES HERE  */
